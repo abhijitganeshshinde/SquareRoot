@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+test_sqrt.py::test_calculate_square_root_positive,test_sqrt,test_calculate_square_root_positive,test_sqrt.py,,,passed,,0.0075919000009889714
+test_sqrt.py::test_calculate_square_root_zero,test_sqrt,test_calculate_square_root_zero,test_sqrt.py,,,passed,,0.000522399999681511
+test_sqrt.py::test_calculate_square_root_negative,test_sqrt,test_calculate_square_root_negative,test_sqrt.py,,,passed,,0.00033660000008239876
